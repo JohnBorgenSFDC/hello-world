@@ -1,2 +1,3 @@
 # hello-world
 This is just here for me to learn GitHub. Probably won't use it again after this tutorial...and I'm likely to delete it shortly thereafter. Who's kidding, this thing is going to live out here forever...I'll forget to delete it. That's almost a guarantee.
+Something about myself, eh? I'm doing this because I work at Salesforce. I've been a consultant, support agent, instructor, Specialist and most recently a Regional Success Archtect. Now I'm being offered the option to become a Solution Architect. This is just one more step towards Technical Architect. That's very exciting. I've got a LOT of work to do though...because I'm not a developer. So, that's why I'm here.
